@@ -1,0 +1,18 @@
+---           
+layout: post
+title: What Can Go Wrong, Might Go Wrong
+date: 2006-09-19 17:10:00 UTC
+updated: 2006-09-19 17:10:00 UTC
+comments: false
+categories: House Events
+---
+[<img alt="Our New Fridge" src="http://static.flickr.com/91/246817314_05cad4b9a8.jpg" width="100" height="75" align="left" style="padding: 5px"/>](http://www.flickr.com/photos/29657811@N00/246817314/)Well, when it rains it pours. It all started Friday evening. We were getting something out of the freezer in the fridge and noticed that not everything was frozen like it should have been. So, Saturday I made the phone call to a service place to see if they could come out and look at it...nope, wouldn't be able to look at it till Monday. Okay, so Monday came along and the repair guy replaced the fan in the back and said it should be good to go in a couple of hours. Two hours later the temperature still remained a cozy 65 degrees. Well, Kim and her parents and I thought it might be a good idea to take a look at what new refrigerators cost and find one we liked. So we went looking. I called the repair guy this morning to see if they would take the electric motor back that he put on cause I didn't want to put anymore money into it...nope, anything electrical they don't take returns. (Anyone want to buy and electric motor? Here I come E-Bay). I also had the repair guy come back out to see if he had any other ideas. He said that the compressor was out too and that it would be about $500 to replace. So, Kim and I finally found a few refrigerators today at Lowe's (they have a large select) and after about an hour and a half (the kids were very good during our search) found one we liked that they had in stock. Yay, we get a new fridge tomorrow. Case in point...you are better off replacing a refrigerator over repairing it. Sad to see how much of a throw away society we've become. I'd rather fix what I have, but it is definitely not economic to do so.
+
+## Oh, but it's not over
+Saturday Kim's Mom came to town so we could go pickup the windows we ordered two weeks ago at Lowe's. We decided to also get a storm door while we were at it. "I need a 36x81 storm door like this one." I told the helpful Lowe's window guy. Took the thing home and was going to install it with the help of Tony...Opened the box and wouldn't you know I got the only 32x81 door that they had. For some reason the Lowe's guy gave me the wrong one. So, we took all the child seats out of the Vibe loaded the door up (Yeah, it can actually haul an 8' article) and exchanged it. I'm kind of glad though as the windows that we got were designed for a "drop-in" replacement instead of a regular replacement. The replacement windows that I should have gotten have a flange around the entire window which is what I needed. So, this Saturday Tony and I will make another trip to Lowe's to return these windows and order some other ones that will work.
+
+## It gets better
+The highlight to all of this door not fitting, wrong windows, fridge done-n-gone broken, and [Jayden doing a face plant](http://www.flickr.com/photos/kevinminnis/247667058/) is that Kim is on Jury duty for the week. That left me to stay home and take care of the kids yesterday and this morning. She'll have an updated entry of her own to explain how wonderful our judicial system really is.
+
+## It's okay now
+I guess through all that has happened this week I'm just glad that everyone is mostly healthy (Josie had a cold Sunday and Yesterday, but is feeling better today) and no more things are breaking (hopefully). Thank goodness for Lowe's interest free for a year get out of jail card. haha

@@ -1,0 +1,8 @@
+title: Kevin Minnis
+description: More to come
+remote_theme: pages-themes/architect@v0.2.0
+#baseurl: /kminnis
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+google_analytics: 
+permalink: /blog/:year/:month/:day/:title
