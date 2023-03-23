@@ -17,6 +17,7 @@
   </head>
 
   <body>
+    {% include navigation.html %}
     <header>
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
@@ -30,7 +31,6 @@
           <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
         {% endif %}
       </div>
-      {% include navigation.html %}
     </header>
 
     <div id="content-wrapper">
