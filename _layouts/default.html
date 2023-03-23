@@ -17,7 +17,6 @@
   </head>
 
   <body>
-    {% include navigation.html %}
     <header>
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
@@ -34,6 +33,7 @@
     </header>
 
     <div id="content-wrapper">
+      {% include navigation.html %}
       <div class="inner clearfix">
         <section id="main-content">
           {{ content }}
